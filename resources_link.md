@@ -3,4 +3,6 @@ https://docs.google.com/presentation/d/1NUeO115bLnz0V8aejx9bYqQTaDrznTjhgbCkn-pK
 
 https://www.notion.so/2e712f0b8b27800cb6ebc40f0a1f0d16
 
+## Web2 to Web3 翻译稿
+https://github.com/EchonetHoward/-Web2-to-Web3-EN-to-CN/tree/main
 
